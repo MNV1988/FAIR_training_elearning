@@ -12,7 +12,7 @@ In this module we would first define what is meant by Data Steward in the landsc
 
 1-Define the Data Stewardship role within the Academic Environment  
 
-2-Describe the Data Stewardship role and its competences  
+2-Describe the Data Stewardship role and its competences 
 
 3- Retrieve valuable information regarding training within the profession  
 
