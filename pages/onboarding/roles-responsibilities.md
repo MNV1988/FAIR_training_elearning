@@ -14,7 +14,7 @@ In this module we would first define what is meant by Data Steward in the landsc
 
 2-Describe the Data Stewardship role and its competences 
 
-3- Retrieve valuable information regarding training within the profession  
+3- Retrieve valuable information regarding training within the profession.  
 
 ## 1.1 Role of the Data Steward
 
