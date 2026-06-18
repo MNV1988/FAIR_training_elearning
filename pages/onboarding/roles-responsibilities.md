@@ -37,13 +37,13 @@ Data stewards in the health domain deal with domain specific types of data, requ
 
 According to the definition provided in this chapter, what is the primary focus of “efficient” data stewardship? 
 
-The pure technical storage/archival of the data after a research project is completed  
+A- The pure technical storage/archival of the data after a research project is completed  
 
-Applying the FAIR principles adequately or advising people on how to do it 
+B- Applying the FAIR principles adequately or advising people on how to do it 
 
-Knowing enough about meta-data standards, ownership and regulations (e.g. GDPR)?  
+C- Knowing enough about meta-data standards, ownership and regulations (e.g. GDPR)?  
 
-Personal Skills 
+D- Personal Skills 
 
 ## Correct Answer: All of the above  
  
@@ -58,13 +58,13 @@ While data stewardship describes the overall process and philosophy of managing 
 ## 2. What is the key difference between 'Data Stewardship' and a 'Data Steward'? 
 
 
-A. Data Stewardship is a software tool, while a Data Steward is the person who operates it. 
+A) Data Stewardship is a software tool, while a Data Steward is the person who operates it. 
 
-B. Data Stewards only work in universities, while Data Stewardship only happens in hospitals. 
+B) Data Stewards only work in universities, while Data Stewardship only happens in hospitals. 
 
-C. Stewardship is the overall process of responsible management, while the Steward is the person assigned specific roles to implement it. 
+C) Stewardship is the overall process of responsible management, while the Steward is the person assigned specific roles to implement it. 
 
-D. There is no difference; the terms are interchangeable in all professional contexts. 
+D) There is no difference; the terms are interchangeable in all professional contexts. 
 
 ## Correct Answer C:  The steward is the actor who puts the standards and practices of stewardship into daily practice within an organization  
 
