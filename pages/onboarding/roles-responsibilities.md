@@ -127,6 +127,10 @@ The Dutch Universities official UFO profile for Data Steward
 
 Some UMC’s have their own job profile and a specialized FUWaVaz profile is coming along  
 
+## 1.1 The Data Steward Role in Health-RI Netherlands
+
+
+### What is a Data Steward? ma
 UoAs have developed a job profile but not yet adopted 
 
 These profiles will be touched upon in more detailed in Chapter 3. However, at this initial point it might be a good idea to have them in mind, as you draft what Data Stewardship career journey you might want to embark on.  
