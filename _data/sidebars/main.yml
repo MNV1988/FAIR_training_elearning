@@ -1,7 +1,17 @@
 subitems:
   - title: Home
     url: /index
-  - title: Example page
+  - title: Data Stewards Onboarding
+    subitems:
+      - title: Overview
+        url: onboarding-overview
+      - title: "Roles & Responsibilities"
+        url: roles-responsibilities
+      - title: "Networks, Funding & Communication"
+        url: networks-funding-communication
+      - title: "Professional Development"
+        url: professional-development
+  - title: Example Training Topic
     url: /example_page
 
   
